@@ -1,22 +1,26 @@
-# Simple Calculator  
+# 🧮 Simple Calculator
 
-A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.  
+This is a simple command-line calculator built with Python. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division.
 
-## Features  
-- Addition (+)  
-- Subtraction (-)  
-- Multiplication (×)  
-- Division (÷)  
-- Clear (C) button  
-- Responsive design  
+## 📌 Features
 
-## How to Use  
-1. Open `index.html` in a browser.  
-2. Click buttons to input numbers.  
-3. Press `=` for the result.  
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly command-line interface
 
-## Screenshot  
-![Calculator Preview] 
+## 🚀 Getting Started
 
-## Built With  
-python
+### Prerequisites
+
+- Python 3 installed on your system
+
+### How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/simple-calculator.git
+cd simple-calculator
+
